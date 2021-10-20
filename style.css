@@ -1,0 +1,28 @@
+/*css que utiliso más*/
+/*h1 al h6*/
+h1,h6{
+    color: white;
+    font-size: 0px;
+    font-family: 0;
+}
+
+/*diviciones*/
+div{
+    background-color: white;
+    width: 0px;
+    height: 0px;
+    background-color: white;
+    border-left-color: white;
+    border-left-style: 0;           
+    margin-top: 0px;    
+    border-left-width: 0px;
+    float: 0;
+    border-bottom-right-radius: 0px;
+}
+/*lista ordenada y no ordenada*/
+ul,ol{
+    color: white;
+    font-size: 0px;
+    font-family: 0;
+
+}
